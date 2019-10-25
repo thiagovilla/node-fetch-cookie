@@ -1,6 +1,6 @@
 # node-fetch-cookie
 
-Cookie fetching exampel with `node-fetch`
+Cookie fetching example with `node-fetch`
 
 # Changelog
 
