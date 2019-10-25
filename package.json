@@ -1,0 +1,19 @@
+{
+  "name": "node-fetch-cookie",
+  "version": "0.0.1",
+  "description": "Cookie fetching example with node-fetch",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "keywords": [
+    "node-fetch",
+    "set-cookie",
+    "headers",
+    "cookie",
+    "node"
+  ],
+  "author": "Thiago Villa",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
